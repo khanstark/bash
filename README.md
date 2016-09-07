@@ -22,3 +22,9 @@ Usage::
 1.the Puzzle: a frog wants to climb 30m tall well from the bottom. It climbs 3m up and slips down 2m at one go. How many times it needs to jump to make it out of the well?
 2.enter args to the code on terminal: python puzzle.py height up down 
 3.eg. python puzzle.py 30 3 2
+
+<b>trending.sh</b>://Get list of trending youtube videos on your console
+
+1.Clone the file.
+2.Install <code>lynx</code> if not already by <code>sudo apt-get install lynx</code>.
+3.Type <code>./trending.sh</code> and voila!! 
